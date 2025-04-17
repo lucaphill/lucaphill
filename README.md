@@ -2,7 +2,7 @@
 
 <br>
 
--  | Tenho 16 anos e quero ser um programador front-end e game maker
+-  | Tenho 18 anos e quero ser um programador front-end e game maker
 -  | Estudando Html, Css e JavaScript
 -  | Já fiz alguns cursos da alura de Html e Css e estou estudando Java script agora
 

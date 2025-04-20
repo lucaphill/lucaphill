@@ -1,29 +1,56 @@
-### Bom dia! 👋
+<h1 align="center">👋 Olá, eu sou o Luca Phill</h1>
 
-<br>
+<p align="center">
+  <a href="#sobre-mim">Sobre mim</a> •
+  <a href="#habilidades">Habilidades</a> •
+  <a href="#projetos">Projetos</a> •
+  <a href="#contato">Contato</a>
+</p>
 
--  | Tenho 18 anos e quero ser um programador front-end e game maker
--  | Estudando Html, Css e JavaScript
--  | Já fiz alguns cursos da alura de Html e Css e estou estudando Java script agora
+---
 
-<div>
-<a href="https://github.com/lucaphill">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaphill&layout=compact&langs_count=7&theme=midnight-purple"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaphill&show_icons=true&theme=midnight-purple"/>
-</div>
+## 🎮 Sobre mim
 
-<div style="display: inline_block"><br>
- <img align="center" height="40" width="50" src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" />
- <img align="center" height="40" width="50" src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" />
- <img align="center" height="40" width="50" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" />
-</div>
+Olá! Tenho 18 anos e sou um **Game Developer** iniciante com paixão por Front‑End e design de jogos. Atualmente, estou me aprofundando no estudo das ferramentas **GameMaker Studio 2** e **Godot** , além de entender o básico de **HTML**, **CSS** e **JavaScript**.
 
-##
+- 💡 Curioso por natureza e sempre em busca de novos desafios
+- 📚 Estudos em andamento na área de gamedev e cursando ciência da computação
+- 🚀 Objetivo: criar experiências interativas e visuais impressionantes
+
+---
+
+## 🛠️ Habilidades Técnicas
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lucaphill}/count.svg" /></p> 
-<br>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/GameMaker-FF5F00.svg?style=for-the-badge&logo=gamemaker&logoColor=white" />
 </div>
 
-<br>
+---
+
+## 💻 Projetos em Destaque
+
+| Projeto             | Descrição                                   | Tecnologias                 |
+|---------------------|---------------------------------------------|-----------------------------|
+| **Site Pessoal**    | Layout moderno apresentando meu portfólio   | HTML • CSS     |
+| **Jogo Bullet Hell**| Chefe com padrões de tiro intensos e dinâmicos| GameMaker Studio 2          |
+
+> Explore todos os meus repositórios em: [github.com/lucaphill](https://github.com/lucaphill)
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaphill&layout=compact&langs_count=7&theme=midnight-purple" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lucaphill&show_icons=true&theme=midnight-purple" />
+</div>
+
+---
+
+## 📬 Contato
+
+- Email: llucaphill@gmail.com
+
+<!-- Obrigado por visitar meu perfil! 🚀 -->

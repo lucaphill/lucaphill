@@ -36,8 +36,6 @@ Olá! Tenho 18 anos e sou um **Game Developer** iniciante com paixão por Front�
 | **Site Pessoal**    | Layout moderno apresentando meu portfólio   | HTML • CSS     |
 | **Jogo Bullet Hell**| Chefe com padrões de tiro intensos e dinâmicos| GameMaker Studio 2          |
 
-> Explore todos os meus repositórios em: [github.com/lucaphill](https://github.com/lucaphill)
-
 ---
 
 ## 📊 Estatísticas

@@ -1,21 +1,13 @@
-<h1 align="center">👋 Olá, eu sou o Luca Phill</h1>
-
-<p align="center">
-  <a href="#sobre-mim">Sobre mim</a> •
-  <a href="#habilidades">Habilidades</a> •
-  <a href="#projetos">Projetos</a> •
-  <a href="#contato">Contato</a>
-</p>
-
+<h1 align="center">👋 Olá, eu sou o Luca</h1>
 ---
 
-## 🎮 Sobre mim
+## Sobre mim
 
-Olá! Tenho 18 anos e sou um **Game Developer** iniciante com paixão por Front‑End e design de jogos. Atualmente, estou me aprofundando no estudo das ferramentas **GameMaker Studio 2** e **Godot** , além de entender o básico de **HTML**, **CSS** e **JavaScript**.
+Olá! Eu começei a estudar programação recentemente e estou tentando fazer uns joguinhos por ai. Atualmente, estou aprendendo **C**, **GDScript** e um tico de **Phyton**
 
-- 💡 Curioso por natureza e sempre em busca de novos desafios
-- 📚 Estudos em andamento na área de gamedev e cursando ciência da computação
-- 🚀 Objetivo: criar experiências interativas e visuais impressionantes
+- Já fiz um micro jogo no gamemaker (:<
+- Tô fazendo faculdade de CiÊncia da computação
+- Quem sabe um dia não faço um jogo famoso hehe
 
 ---
 
@@ -34,7 +26,7 @@ Olá! Tenho 18 anos e sou um **Game Developer** iniciante com paixão por Front�
 | Projeto             | Descrição                                   | Tecnologias                 |
 |---------------------|---------------------------------------------|-----------------------------|
 | **Site Pessoal**    | Layout moderno apresentando meu portfólio   | HTML • CSS     |
-| **Jogo Bullet Hell**| Chefe com padrões de tiro intensos e dinâmicos| GameMaker Studio 2          |
+| **Tomada vírus** | Um jogo bulet hell que vc tem qe sobreviver a um boss| GameMaker Studio 2          |
 
 ---
 
@@ -49,6 +41,6 @@ Olá! Tenho 18 anos e sou um **Game Developer** iniciante com paixão por Front�
 
 ## 📬 Contato
 
-- Email: llucaphill@gmail.com
+- Email: contatolucaphill@gmail.com
 
 <!-- Obrigado por visitar meu perfil! 🚀 -->

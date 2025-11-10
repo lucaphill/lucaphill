@@ -25,7 +25,7 @@ Olá! Eu começei a estudar programação recentemente e estou tentando fazer un
 
 | Projeto             | Descrição                                   | Tecnologias                 |
 |---------------------|---------------------------------------------|-----------------------------|
-| **Site Pessoal**    | Layout moderno apresentando meu portfólio   | HTML • CSS     |
+| **Site Pessoal**    | Layout moderno apresentando meu portfólio   | HTML • CSS     | <- ainda tenho que tirar umas infromações dele então ta privado kkk
 | **Tomada vírus** | Um jogo bulet hell que vc tem qe sobreviver a um boss| GameMaker Studio 2          |
 
 ---

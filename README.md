@@ -7,7 +7,7 @@ I started learning programming in 2025 and I am currently pursuing a degree in C
 
 I am a member of the **QUASAR (Quantum Software Research League)** at my university, where I study the fundamentals of quantum physics and astrophysics, with a particular interest in gravitational waves.
 
-My primary academic and creative interest lies in the intersection between **computer science and science education**. I am currently involved in a project dedicated to the development of **educational games** designed to teach fundamental concepts of quantum physics to teenagers. This work focuses on transforming abstract theoretical principles into interactive and accessible experiences, using game design as a tool to enhance scientific understanding and engagement.
+My current academic and creative interest lies in the intersection between **computer science and science education**. I am currently involved in a project dedicated to the development of **educational games** designed to teach fundamental concepts of quantum physics to teenagers. This work focuses on transforming abstract theoretical principles into interactive and accessible experiences, using game design as a tool to enhance scientific understanding and engagement.
 
 
 ---

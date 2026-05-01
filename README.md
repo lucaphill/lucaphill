@@ -3,7 +3,7 @@
 
 ## About Me
 
-I started learning programming in 2025 and I am currently pursuing a degree in Computer Science. I have foundational knowledge in **C**, **Python**, and **GDScript**, and I have already developed two small game project.
+I started learning programming in 2025 and I am currently pursuing a degree in Computer Science. I have foundational knowledge in **C**, **Python**, and **GDScript**, and I have already developed two small game projects.
 
 I am a member of the **QUASAR (Quantum Software Research League)** at my university, where I study the fundamentals of quantum physics and astrophysics.
 

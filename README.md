@@ -3,11 +3,11 @@
 
 ## About Me
 
-I started learning programming in 2025 and I am currently pursuing a degree in Computer Science. I have foundational knowledge in **C**, **Python**, and **GDScript**, and I have already developed a small game project.
+I started learning programming in 2025 and I am currently pursuing a degree in Computer Science. I have foundational knowledge in **C**, **Python**, and **GDScript**, and I have already developed two small game project.
 
-I am a member of the **QUASAR (Quantum Software Research League)** at my university, where I study the fundamentals of quantum physics and astrophysics, with a particular interest in gravitational waves.
+I am a member of the **QUASAR (Quantum Software Research League)** at my university, where I study the fundamentals of quantum physics and astrophysics.
 
-My current academic and creative interest lies in the intersection between **computer science and science education**. I am currently involved in a project dedicated to the development of **educational games** designed to teach fundamental concepts of quantum physics to teenagers. This work focuses on transforming abstract theoretical principles into interactive and accessible experiences, using game design as a tool to enhance scientific understanding and engagement.
+I'm currently attending Brazil Quantum Camp, a 72-hour course offered by Venturus on quantum computing and its fundamentals.
 
 
 ---

@@ -7,7 +7,7 @@ I started learning programming in 2025 and I am currently pursuing a degree in C
 
 I am a member of the **QUASAR (Quantum Software Research League)** at my university, where I study the fundamentals of quantum physics and astrophysics.
 
-I'm currently attending Brazil Quantum Camp, a 72-hour course offered by Eldorado on quantum computing and its fundamentals.
+I'm currently attending Brazil Quantum Camp, a 72-hour course offered by Cesar School on quantum computing and its fundamentals.
 
 
 ---

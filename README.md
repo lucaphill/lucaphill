@@ -16,8 +16,6 @@ Outside of coding, I enjoy playing terraria and tabletop RPGs.
 ![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![RISC-V](https://img.shields.io/badge/RISC--V-283272.svg?style=for-the-badge&logo=riscv&logoColor=white)
 
----
-
-#### Contact
+### Contact
 
 > Email: contatolucaphill@gmail.com
